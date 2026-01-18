@@ -7,7 +7,7 @@ It combines:
 - **Hekate** (bootloader)
 - **ldm_mitm** (sysmodule)
 
-Designed for **easy copy & paste** directly to your SD card — no manual merging, no guessing.
+Designed for **easy copy & paste** directly to your SD card.
 
 ---
 
